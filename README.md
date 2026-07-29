@@ -1,7 +1,7 @@
 # ME204 Final Project: Is Home Advantage Equal Across Europe's Top Five Leagues?
 
 **GitHub username:** martinezmerino
-**LSE ID:** TODO
+**LSE ID:** 250099653
 
 ## Overview
 
